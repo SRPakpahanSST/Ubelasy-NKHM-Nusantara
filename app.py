@@ -11,7 +11,7 @@ st.set_page_config(
 st.sidebar.title("🚀 Pilih Sistem")
 app_mode = st.sidebar.radio(
     "Aplikasi Keuangan Berkelanjutan",
-    ["🌾 Sistem Ubelasy (Pinjaman Yobel)", "🌿 NKHM Nusantara (4 Kecerdasan + AI)"],
+    ["🌾 Sistem Ubelasy (Pinjaman Berbasis PSH)", "🌿 NKHM Nusantara (4 Kecerdasan + Nasionalisme + AI)"],
     index=0
 )
 
