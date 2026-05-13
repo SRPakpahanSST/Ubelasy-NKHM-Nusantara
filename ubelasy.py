@@ -9,7 +9,7 @@ def main():
     
     st.title("🌾 Sistem Pinjaman Digital Ubelasy")
     st.markdown("**Versi 2 Periode · dPSH Maks = 2 · Penurunan Suku Bunga 0,5% per Periode**")
-    st.markdown("Keuangan Berkelanjutan untuk Ketahanan Pangan & Energi Sumatera Selatan")
+    st.markdown("Keuangan Berkelanjutan untuk Ketahanan Pangan & Energi Nusantara")
     st.markdown("---")
     
     # Sidebar input parameter
