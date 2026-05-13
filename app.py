@@ -19,7 +19,7 @@ st.sidebar.markdown("---")
 st.sidebar.caption("© 2026 Tim Cerdas Bangsa")
 
 # Panggil modul sesuai pilihan
-if app_mode == "🌾 Sistem Ubelasy (Pinjaman Yobel)":
+if app_mode == "🌾 Sistem Ubelasy (Pinjaman Berbasis PSH)":
     import ubelasy as active_app
 else:
     import nkhm as active_app
